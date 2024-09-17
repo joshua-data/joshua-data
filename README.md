@@ -1,8 +1,8 @@
 <h1 align="center">
-    🙋🏻‍♂️ Hi, I'm Joshua Kim!
+    <img align="center" src="/images/joshua.png" alt="joshuajsk" height="40" width="40" />Joshua
 </h1>
 <h3 align="center">
-    "A Data Analyst on a Never-Ending Thirst for Learning through Computers, Books and People"
+    "Creating Impact through Data Analysis and Engineering while Pursuing Growth and Kindness"
 </h3>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">
-    Connect with me:
+    Let's connect:
 </h3>
 
 <p align="left">
@@ -23,7 +23,7 @@
     <a href="https://kaggle.com/joshuajsk" target="blank">
         <img align="center" src="/images/kaggle_logo.png" alt="joshuajsk" height="40" width="40" />
     </a>
-    <a href="https://medium.com/@joshua-data" target="blank">
+    <a href="https://joshua-data.medium.com" target="blank">
         <img align="center" src="/images/medium_logo.png" alt="@joshua-data" height="40" width="40" />
     </a>
 </p>
@@ -34,42 +34,30 @@
 
 <p align="left">
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-</a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png" alt="github" width="40" height="40"/> 
 </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.gainsight.com/wp-content/uploads/2023/02/bigquery.svg" alt="bigquery" width="40" height="40"/> 
+</a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/> 
 </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://media.licdn.com/dms/image/D5612AQFoTGCb4yx_MQ/article-cover_image-shrink_720_1280/0/1678719746960?e=2147483647&v=beta&t=d6I-E9_WKOmxumcVfWYns3UH2E0TG9-5J8m3049YzYg" alt="airflow" width="40" height="40"/> 
 </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-</a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-</a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</a> 
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
-</a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Data_build_tool_%28dbt%29_logo.svg/120px-Data_build_tool_%28dbt%29_logo.svg.png" alt="dbt" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2d3IW4R8PR4TO7Va-lOAV6PrrYh250bqJpw&s" alt="openai" width="40" height="40"/>
+</a>
 
 </p>
 
@@ -83,13 +71,6 @@
 <p>&nbsp;
     <img align="center" 
         src="https://github-readme-stats.vercel.app/api?username=joshua-data&show_icons=true&locale=en" 
-        alt="joshua-data" 
-    />
-</p>
-
-<p>
-    <img align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=joshua-data&" 
         alt="joshua-data" 
     />
 </p>
