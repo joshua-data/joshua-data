@@ -34,10 +34,10 @@
 
 <p align="left">
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/180px-GitHub_Invertocat_Logo.svg.png" alt="github" width="40" height="40"/> 
 </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> 
     <img src="https://www.gainsight.com/wp-content/uploads/2023/02/bigquery.svg" alt="bigquery" width="40" height="40"/> 
 </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
@@ -46,16 +46,16 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://media.licdn.com/dms/image/D5612AQFoTGCb4yx_MQ/article-cover_image-shrink_720_1280/0/1678719746960?e=2147483647&v=beta&t=d6I-E9_WKOmxumcVfWYns3UH2E0TG9-5J8m3049YzYg" alt="airflow" width="40" height="40"/> 
 </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
 </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2d3IW4R8PR4TO7Va-lOAV6PrrYh250bqJpw&s" alt="openai" width="40" height="40"/>
 </a>
 
