@@ -1,9 +1,9 @@
 <h1 align="center">
     <img align="center" src="/images/joshua.png" alt="joshuajsk" height="40" width="40" />Joshua
 </h1>
-<h3 align="center">
-    "Data Analyst | Analytics Engineer"
-</h3>
+<h2 align="center">
+    Data Analyst | Analytics Engineer
+</h2>
 <h3 align="center">
     "Creating Impact through Data Analysis and Engineering while Pursuing Growth and Kindness"
 </h3>
