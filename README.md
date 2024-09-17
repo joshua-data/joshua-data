@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img align="center" src="/images/joshua.png" alt="joshuajsk" height="40" width="40" />Joshua
+    <img align="center" src="/images/joshua.png" alt="joshuajsk" height="40" width="40" />Joshua | Data Analyst & Analytics Engineer
 </h1>
 <h3 align="center">
     "Creating Impact through Data Analysis and Engineering while Pursuing Growth and Kindness"
@@ -13,23 +13,23 @@
 </p>
 
 <h3 align="left">
-    Let's connect:
+    Let's connect!:
 </h3>
 
 <p align="left">
     <a href="https://linkedin.com/in/joshuajsk" target="blank">
         <img align="center" src="/images/linkedin_logo.png" alt="joshuajsk" height="40" width="40" />
     </a>
-    <a href="https://kaggle.com/joshuajsk" target="blank">
-        <img align="center" src="/images/kaggle_logo.png" alt="joshuajsk" height="40" width="40" />
-    </a>
     <a href="https://joshua-data.medium.com" target="blank">
         <img align="center" src="/images/medium_logo.png" alt="@joshua-data" height="40" width="40" />
+    </a>
+    <a href="https://kaggle.com/joshuajsk" target="blank">
+        <img align="center" src="/images/kaggle_logo.png" alt="joshuajsk" height="40" width="40" />
     </a>
 </p>
 
 <h3 align="left">
-    Languages and Tools:
+    Tech Skills:
 </h3>
 
 <p align="left">
@@ -53,7 +53,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Data_build_tool_%28dbt%29_logo.svg/120px-Data_build_tool_%28dbt%29_logo.svg.png" alt="dbt" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/>
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2d3IW4R8PR4TO7Va-lOAV6PrrYh250bqJpw&s" alt="openai" width="40" height="40"/>
