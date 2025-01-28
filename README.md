@@ -21,9 +21,9 @@
 
 <p align="left">
 
-- [LinkedIn](https://linkedin.com/in/joshuajsk)
-- [Medium](https://joshua-data.medium.com)
-- [Kaggle](https://kaggle.com/joshuajsk)
+1. [LinkedIn](https://linkedin.com/in/joshuajsk)
+2. [Medium](https://joshua-data.medium.com)
+3. [Kaggle](https://kaggle.com/joshuajsk)
 
 </p>
 
@@ -34,35 +34,22 @@
 <p align="left">
 
 1. Database
-- BigQuery
-- Postgres
+- BigQuery | Postgres
 
 2. Data Orchestration
-- Python
-- Airflow
-- dbt
-- Spark
-- Kafka
+- Python | Airflow | dbt | Spark | Kafka
 
 3. Visualization
-- Redash
-- Metabase
+- Redash | Metabase
 
 3. Infrastructure
-- Git/GitHub
-- Linux
-- Docker
-- VM Instance
-- GCS Bucket
+- Git/GitHub | Linux | Docker | VM Instance | GCS Bucket
 
 4. APIs
-- OpenAI API
-- Slack API
+- OpenAI API | Slack API
 
 5. Google Ecosystem
-- Google Tag Manager
-- Google Analytics 4
-- Apps Script
+- Google Tag Manager | Google Analytics 4 | Apps Script
 
 </p>
 
