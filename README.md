@@ -34,22 +34,22 @@
 <p align="left">
 
 1. Database
-- BigQuery | Postgres
+    - BigQuery | Postgres
 
 2. Data Orchestration
-- Python | Airflow | dbt | Spark | Kafka
+    - Python | Airflow | dbt | Spark | Kafka
 
 3. Visualization
-- Redash | Metabase
+    - Redash | Metabase
 
 3. Infrastructure
-- Git/GitHub | Linux | Docker | VM Instance | GCS Bucket
+    - Git/GitHub | Linux | Docker | VM Instance | GCS Bucket
 
 4. APIs
-- OpenAI API | Slack API
+    - OpenAI API | Slack API
 
 5. Google Ecosystem
-- Google Tag Manager | Google Analytics 4 | Apps Script
+    - Google Tag Manager | Google Analytics 4 | Apps Script
 
 </p>
 
