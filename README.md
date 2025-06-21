@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="/images/joshua.png" alt="joshuajsk" height="40" width="40" />
-  Joshua (Jinseok Kim)
+  Joshua
 </h1>
 
 <h2 align="center">Data Analyst → Analytics Engineer → Data Engineer (-ing)</h2>
