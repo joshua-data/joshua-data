@@ -61,13 +61,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshua-data&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-data&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshua-data&show_icons=true&theme=blue_navy" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-data&layout=compact&theme=blue_navy" alt="Top Languages" height="180" />
+</div>
