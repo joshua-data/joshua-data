@@ -6,7 +6,7 @@
 <h2 align="center">Data Analyst → Analytics Engineer → Data Engineer (-ing)</h2>
 
 <p align="center">
-  <em>Solving organizational challenges and driving business decisions by integrating analytical thinking with engineering practices.</em>
+  <img src="/images/joshua-banner.png" alt="Joshua Data Banner" style="max-width: 100%;" />
 </p>
 
 <p align="left">
