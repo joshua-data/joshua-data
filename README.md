@@ -3,7 +3,7 @@
   Joshua
 </h1>
 
-<h2 align="center">Data Analyst → Analytics Engineer → Data Engineer (-ing)</h2>
+<h2 align="center">Analytics Engineer</h2>
 
 <p align="center">
   <img src="/images/joshua-banner.png" alt="Joshua Data Banner" style="max-width: 100%;" />
