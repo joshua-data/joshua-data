@@ -1,15 +1,19 @@
-<div align="center">
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-# Joshua Kim
+<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 
-Analytics Engineer
+I'm **Joshua**, an Analytics Engineer building data products with dbt & BigQuery 🇰🇷→🇨🇦
+
+<p>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/databaseparrot.gif" width="25"/>
+  <img src="https://cultofthepartyparrot.com/flags/hd/canadaparrot.gif" width="25"/>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuajsk)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://joshua-data.medium.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshua-data)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://joshua-data.github.io)
-
-</div>
 
 ---
 
