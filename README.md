@@ -19,13 +19,14 @@ Analytics Engineer
 class AnalyticsEngineer:
     def __init__(self):
         self.name = "Joshua"
+        self.coffee = float("inf")
+        self.sql_queries_written = 99999
+        self.favorite_error = None
+        self.tabs_open = "too many"
+        self.bugs_fixed = self.bugs_created = 0  # perfectly balanced
 
-    def current_focus(self):
-        return [
-            "Designing semantic layers with dbt",
-            "Building CDC pipelines on GCP",
-            "Developing AI-powered data tools"
-        ]
+    def __repr__(self):
+        return "Turning ☕ into 📊 since 2022"
 ```
 
 ---
