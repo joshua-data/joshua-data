@@ -45,72 +45,12 @@ class AnalyticsEngineer:
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### DAHAE
-**NL2SQL Slack Agent**
-
-Natural language to SQL conversion bot with Claude API.
-
-`Claude API` `Python` `Slack API` `BigQuery`
-
-</td>
-<td width="50%">
-
-### FINDY
-**AI Location Discovery**
-
-Conversational AI for semantic place search.
-
-`Gemini API` `Python` `Cloud Run` `React`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### CDC Pipeline
-**Real-time Data Capture**
-
-Bronze → Silver → Gold architecture on GCP.
-
-`Kafka` `BigQuery` `Airflow` `GCP`
-
-</td>
-<td width="50%">
-
-### dbt Semantic Layer
-**Metrics Standardization**
-
-Semantic layer with dbt models and custom macros.
-
-`dbt` `BigQuery` `DataHub` `Jinja`
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=joshua-data&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-data&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshua-data&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
----
+```
+$ neofetch --github joshua-data
+```
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=joshua-data&color=blueviolet&style=flat-square&label=Profile+Views)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joshua-data&theme=github-dark&hide_border=true&area=true)](https://github.com/joshua-data)
 
 </div>
